@@ -1,0 +1,24 @@
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800HimaServer.exe.config
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.csprojResolveAssemblyReference.cache
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.Properties.Resources.resources
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.ServerForm.resources
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.csproj.GenerateResource.Cache
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800HimaServer.exe
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800HimaServer.pdb
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800EdwardJabarSocketEngine.dll
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\mdtypes.dll
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800EdwardJabarSocketEngine.pdb
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.exe
+C:\Users\Hima\Desktop\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.pdb
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800HimaServer.exe.config
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800HimaServer.exe
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800HimaServer.pdb
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800EdwardJabarSocketEngine.dll
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\bin\Debug\CMPE2800EdwardJabarSocketEngine.pdb
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.csprojResolveAssemblyReference.cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.Properties.Resources.resources
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.ServerForm.resources
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.csproj.GenerateResource.Cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.csproj.CoreCompileInputs.cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.exe
+S:\Downloads\C# stuff\C# stuff\CMPE2800Server--------30March\Project1\CMPE2800HimaServer\obj\Debug\CMPE2800HimaServer.pdb
