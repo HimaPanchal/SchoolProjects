@@ -1,0 +1,8 @@
+C:\Users\Hima\Desktop\CMPE2800\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\Hima\Desktop\CMPE2800\GameServer\bin\Debug\GameServer.exe
+C:\Users\Hima\Desktop\CMPE2800\GameServer\bin\Debug\GameServer.pdb
+C:\Users\Hima\Desktop\CMPE2800\GameServer\obj\Debug\GameServer.gameServer.resources
+C:\Users\Hima\Desktop\CMPE2800\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+C:\Users\Hima\Desktop\CMPE2800\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
+C:\Users\Hima\Desktop\CMPE2800\GameServer\obj\Debug\GameServer.exe
+C:\Users\Hima\Desktop\CMPE2800\GameServer\obj\Debug\GameServer.pdb

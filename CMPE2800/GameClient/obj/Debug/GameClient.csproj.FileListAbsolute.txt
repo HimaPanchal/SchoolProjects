@@ -1,0 +1,16 @@
+C:\Users\Hima\Desktop\CMPE2800\GameClient\bin\Debug\GameClient.exe.config
+C:\Users\Hima\Desktop\CMPE2800\GameClient\bin\Debug\GameClient.exe
+C:\Users\Hima\Desktop\CMPE2800\GameClient\bin\Debug\GameClient.pdb
+C:\Users\Hima\Desktop\CMPE2800\GameClient\obj\Debug\GameClient.csprojResolveAssemblyReference.cache
+C:\Users\Hima\Desktop\CMPE2800\GameClient\obj\Debug\GameClient.gameClient.resources
+C:\Users\Hima\Desktop\CMPE2800\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+C:\Users\Hima\Desktop\CMPE2800\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+C:\Users\Hima\Desktop\CMPE2800\GameClient\obj\Debug\GameClient.exe
+C:\Users\Hima\Desktop\CMPE2800\GameClient\obj\Debug\GameClient.pdb
+S:\Downloads\C# stuff\C# stuff\CMPE2800\GameClient\obj\Debug\GameClient.csprojResolveAssemblyReference.cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800\GameClient\obj\Debug\GameClient.gameClient.resources
+S:\Downloads\C# stuff\C# stuff\CMPE2800\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+S:\Downloads\C# stuff\C# stuff\CMPE2800\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800\GameClient\obj\Debug\GameClient.exe
+S:\Downloads\C# stuff\C# stuff\CMPE2800\GameClient\obj\Debug\GameClient.pdb
