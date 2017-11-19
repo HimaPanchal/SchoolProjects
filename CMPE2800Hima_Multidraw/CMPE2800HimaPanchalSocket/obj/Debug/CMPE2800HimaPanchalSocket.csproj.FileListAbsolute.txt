@@ -1,0 +1,2 @@
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800Hima_Multidraw\CMPE2800HimaPanchalSocket\obj\Debug\CMPE2800HimaPanchalSocket.csprojResolveAssemblyReference.cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800Hima_Multidraw\CMPE2800HimaPanchalSocket\obj\Debug\CMPE2800HimaPanchalSocket.csproj.CoreCompileInputs.cache
