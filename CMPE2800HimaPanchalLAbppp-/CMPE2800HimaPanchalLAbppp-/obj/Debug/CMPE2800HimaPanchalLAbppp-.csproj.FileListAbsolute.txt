@@ -1,0 +1,19 @@
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\bin\Debug\CMPE2800HimaPanchalLAbppp-.exe.config
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\bin\Debug\CMPE2800HimaPanchalLAbppp-.exe
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\bin\Debug\CMPE2800HimaPanchalLAbppp-.pdb
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.csprojResolveAssemblyReference.cache
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp_.PPPLab.resources
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp_.Properties.Resources.resources
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.csproj.GenerateResource.Cache
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.exe
+C:\Users\Hima\Desktop\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.pdb
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\bin\Debug\CMPE2800HimaPanchalLAbppp-.exe.config
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\bin\Debug\CMPE2800HimaPanchalLAbppp-.exe
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\bin\Debug\CMPE2800HimaPanchalLAbppp-.pdb
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.csprojResolveAssemblyReference.cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp_.PPPLab.resources
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp_.Properties.Resources.resources
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.csproj.GenerateResource.Cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.csproj.CoreCompileInputs.cache
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.exe
+S:\Downloads\C# stuff\C# stuff\CMPE2800-HimaPanchalCompleteSimonsAssignments\CMPE2800HimaPanchalLAbppp-\CMPE2800HimaPanchalLAbppp-\obj\Debug\CMPE2800HimaPanchalLAbppp-.pdb
